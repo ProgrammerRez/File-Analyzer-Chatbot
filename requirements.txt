@@ -1,0 +1,7 @@
+streamlit
+langchain
+google-generativeai
+python-dotenv
+PyPDF2
+pandas
+tiktoken
