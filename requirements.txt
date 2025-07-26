@@ -1,39 +1,9 @@
-# Core
-wheel 
-streamlit
-python-dotenv
-ipykernel
-# LangChain & extensions (all <0.4.0)
-langchain
+streamlit 
+pypdf2 
+pandas 
+nest-asyncio 
+langchain-community 
+faiss-cpu 
+langchain 
+langchain-google-genai 
 langchain-core
-langchain-community
-langchain-groq
-langchain-huggingface
-faiss-cpu
-langchain-text-splitters
-
-# Pydantic v2 for LangChain 0.3.x
-pydantic
-
-# PDF handling
-pypdf
-pymupdf
-
-# Transformers & embeddings
-sentence-transformers
-huggingface-hub
-torch
-
-# Data & utilities
-duckdb
-pandas
-wikipedia
-beautifulsoup4
-arxiv
-
-# LLMs & other APIs
-langsmith
-
-# Numerical
-numpy
-protobuf==3.20.*
