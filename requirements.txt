@@ -17,6 +17,7 @@ pydantic
 
 # PDF handling
 pypdf
+PyPDF2
 pymupdf
 
 # Transformers & embeddings
